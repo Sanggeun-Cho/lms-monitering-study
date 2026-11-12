@@ -13,4 +13,4 @@
 
 ## 정리 문서
 
-이 폴더에 `이름.md`로 각자 작성합니다. 양식은 [TEMPLATE.md](../TEMPLATE.md)를 참고하세요.
+이 PART 담당자가 이 폴더에 MD 파일로 작성합니다. 양식은 [TEMPLATE.md](../TEMPLATE.md)를 복사해서 씁니다.
